@@ -1,0 +1,86 @@
+{
+	"song": {
+		"events": [
+			[
+				131676.136363636,
+				[
+					[
+						"Change Character",
+						"1",
+						"starved-pixel"
+					]
+				]
+			],
+			[
+				131761.363636364,
+				[
+					[
+						"Lyrics",
+						"Seems that bucket of bolts had to lay off the nitro this time around!",
+						"3"
+					]
+				]
+			],
+			[
+				131846.590909091,
+				[
+					[
+						"Play Animation",
+						"first dialogue",
+						"1"
+					],
+					[
+						"Change Character",
+						"1",
+						"starved-pixel-dialogue"
+					]
+				]
+			],
+			[
+				135255.681818182,
+				[
+					[
+						"Lyrics",
+						"Hey Red Head!",
+						""
+					]
+				]
+			],
+			[
+				136363.636363636,
+				[
+					[
+						"Lyrics",
+						"Might wanna repair your toys!",
+						"1.1"
+					]
+				]
+			],
+			[
+				142840.909090909,
+				[
+					[
+						"Lyrics",
+						"*Maniacal kackling*--0xFF0000",
+						"8.9"
+					]
+				]
+			],
+			[
+				152301.136363636,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-Sonic-Peelout"
+					],
+					[
+						"Change Character",
+						"1",
+						"starved-pixel"
+					]
+				]
+			]
+		]
+	}
+}
